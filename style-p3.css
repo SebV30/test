@@ -1,0 +1,135 @@
+body
+{
+	font-size: 1.2em;
+	align-items: center;
+}
+h1
+{
+	font-size: 2.5em;
+	margin-left: 135px;
+}
+#menu ul
+{
+	justify-content: space-around;
+}
+nav ul
+{
+	list-style-type: none;
+}
+h2
+{
+	font-size: 1.8em;
+	margin-left: 135px;
+}
+section h2
+{
+	margin: auto;
+}
+a
+{
+	font-size: 1.1em;
+}
+a:hover
+{
+	color: green;
+	font-weight: bold;
+}
+.logos
+{
+	width: 250px;
+	height: 250px;
+}
+#head
+{
+	display: flex;
+	flex-direction: row;
+}
+header
+{
+	background-image: url('images/logos/steam.png');
+	background-repeat: no-repeat;
+	background-size: 125px 125px;
+	background-position: top left;
+	width: 50%;
+}
+section
+{
+	display: flex;
+	flex-direction: row;
+	text-align: justify;
+	justify-content: space-around;
+}
+section img, a
+{
+	margin: auto;
+}
+.precis
+{
+	margin: auto;
+	width: 80%;
+	border: 1px solid red;
+	box-shadow: 2px 2px 4px red;
+	border-radius: 5px;
+	font-weight: bolder;
+	font-style: italic;
+	color: rgb(233, 115, 19);
+	text-align: center;
+	margin-bottom: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#Farming_Simulator_19
+{
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+	overflow: scroll;
+	max-height: 500px;
+	border: 1px solid rgba(8, 236, 84, 0.63);
+	margin: 5px;
+	padding: 10px 5px 10px 5px;
+}
+#Russian_Fishing_4
+{
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+	overflow: scroll;
+	max-height: 500px;
+	border: 1px solid rgba(8, 236, 84, 0.63);
+	margin: 5px;
+	padding: 10px 5px 10px 5px;
+}
+#Euro_Truck_Simulator_2
+{
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+	overflow: scroll;
+	max-height: 500px;
+	border: 1px solid rgba(8, 236, 84, 0.63);
+	margin: 5px;
+	padding: 10px 5px 10px 5px;
+}
+#Transport_Fever
+{
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+	overflow: scroll;
+	max-height: 500px;
+	border: 1px solid rgba(8, 236, 84, 0.63);
+	margin: 5px;
+	padding: 10px 5px 10px 5px;
+}
+#Wreckfest
+{
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+	overflow: scroll;
+	max-height: 500px;
+	border: 1px solid rgba(8, 236, 84, 0.63);
+	margin: 5px;
+	padding: 10px 5px 10px 5px;
+}
